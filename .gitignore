@@ -1,0 +1,7 @@
+/target/
+/backend/target/
+/tools/component/target/
+*.alcomdextension
+*.pem
+*.key
+__pycache__/
